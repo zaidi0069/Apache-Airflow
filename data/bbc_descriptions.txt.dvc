@@ -1,0 +1,5 @@
+outs:
+- md5: 9328a056822bc5705393cf541ec1c995
+  size: 9868
+  hash: md5
+  path: bbc_descriptions.txt

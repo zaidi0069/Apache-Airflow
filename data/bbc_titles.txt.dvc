@@ -1,0 +1,5 @@
+outs:
+- md5: 72c0f1628a8235921e51c6f372c6cdea
+  size: 10800
+  hash: md5
+  path: bbc_titles.txt
